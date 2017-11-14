@@ -1,3 +1,4 @@
+import time
 points = 0
 print("What is your name?")
 name = input()
@@ -79,7 +80,20 @@ elif readinganswer == "no":
         else:
             print(tvshow + " sounds like a pretty good show!")
     else:
-        print("Okay!")
+        print("Okay")
+
+print("How old are you?")
+age = input()
+if age == "14":
+    print("Me too! When is your birthday?")
+    birthday = input()
+    if birthday == "November 12":
+        print("NO WAY! ME TOO!")
+        
+    
+      
+  
+time.sleep(200)
         
 '''
 print("What sport do you like to play most?")
