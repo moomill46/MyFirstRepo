@@ -1,3 +1,4 @@
+import time
 ### MAD LIBS ###
 ### https://i.pinimg.com/736x/9e/4f/2c/9e4f2c8f17e090584b033d4efaa45b2c--printable-madlibs-mad-libs-for-teens.jpg###
 
@@ -68,3 +69,4 @@ print("2. Keep our " + partofbodyplural2 + " off the table.")
 print("3. Not use our " + partofbodyplural3 + " to pick up " + pluralnoun4 + " from our plates--except for sandwiches or pieces of " + noun4 + ".")
 print("4. Never talk with food in our " + partofbodyplural4 + ".")
 
+time.sleep(150)
