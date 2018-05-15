@@ -69,4 +69,5 @@ print("2. Keep our " + partofbodyplural2 + " off the table.")
 print("3. Not use our " + partofbodyplural3 + " to pick up " + pluralnoun4 + " from our plates--except for sandwiches or pieces of " + noun4 + ".")
 print("4. Never talk with food in our " + partofbodyplural4 + ".")
 
-time.sleep(150)
+
+time.sleep(100)
